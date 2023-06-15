@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### ✔️ Studying
 <div>
   <img style="display: inline-block" src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img style="display: inline-block" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
@@ -9,6 +10,14 @@
   <img style="display: inline-block" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img style="display: inline-block" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
+
+#### ✔️ Tools
+<div>
+  <img style="display: inline-block" src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img style="display: inline-block" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img style="display: inline-block" src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+</div>
+
 <!--
 **yaangha/yaangha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
